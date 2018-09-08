@@ -1,0 +1,120 @@
+#EXTM3U
+#EXTINF:-1,BE:LA_DEUX
+http://iptvhd.eu:777/live/csOIC0HAYC/0zi48YB80d/6002.ts
+#EXTINF:-1,BE:LA_TROIS
+http://iptvhd.eu:777/live/csOIC0HAYC/0zi48YB80d/6003.ts
+#EXTINF:-1,BE:LA_UNE
+http://iptvhd.eu:777/live/csOIC0HAYC/0zi48YB80d/6001.ts
+#EXTINF:-1,BE:RTL_TVI
+http://iptvhd.eu:777/live/csOIC0HAYC/0zi48YB80d/6004.ts
+#EXTINF:-1,BEL: VIJF 2
+http://iptvhd.eu:777/live/csOIC0HAYC/0zi48YB80d/6021.ts
+#EXTINF:-1,BE: Vtm
+http://iptvhd.eu:777/live/csOIC0HAYC/0zi48YB80d/6024.ts
+#EXTINF:-1,BEL: CLUB RTL
+http://iptvhd.eu:777/live/csOIC0HAYC/0zi48YB80d/6023.ts
+
+#EXTINF:-1,(BE) Canal C
+http://hbox.cdnss.me:80/live/mtg/2406/3940.ts
+#EXTINF:-1,(BE) Serie
+http://hbox.cdnss.me:80/live/mtg/2406/2952.ts
+#EXTINF:-1,(BE) CINEMA
+http://hbox.cdnss.me:80/live/mtg/2406/2957.ts
+#EXTINF:-1,(BE) RTL TVI HD
+http://hbox.cdnss.me:80/live/mtg/2406/2958.ts
+#EXTINF:-1,(BE) Plug RTL
+http://hbox.cdnss.me:80/live/mtg/2406/2956.ts
+#EXTINF:-1,(BE) Club Rtl
+http://hbox.cdnss.me:80/live/mtg/2406/2014.ts
+#EXTINF:-1,(DE) RTL
+http://hbox.cdnss.me:80/live/mtg/2406/3779.ts
+#EXTINF:-1,(BE) La Une
+http://hbox.cdnss.me:80/live/mtg/2406/2012.ts
+#EXTINF:-1,(BE) La Deux
+http://hbox.cdnss.me:80/live/mtg/2406/2010.ts
+#EXTINF:-1,(BE) AB3
+http://hbox.cdnss.me:80/live/mtg/2406/2951.ts
+#EXTINF:-1,(BE) La Trois
+http://hbox.cdnss.me:80/live/mtg/2406/2011.ts
+#EXTINF:-1,(BE)  Bx1 Belge
+http://hbox.cdnss.me:80/live/mtg/2406/3916.ts
+
+#EXTINF:-1,BE-La_Une
+http://mysserver.xyz:8000/live/mahdi1/mahdi/3941.ts
+#EXTINF:-1,BE-La_Deux
+http://mysserver.xyz:8000/live/mahdi1/mahdi/3942.ts
+#EXTINF:-1,BE-La_Trois
+http://mysserver.xyz:8000/live/mahdi1/mahdi/3943.ts
+#EXTINF:-1,BE-Cine
+http://mysserver.xyz:8000/live/mahdi1/mahdi/5988.ts
+#EXTINF:-1,BE-Cinema-Action
+http://mysserver.xyz:8000/live/mahdi1/mahdi/5989.ts
+#EXTINF:-1,BE-VTM.Kanzoom
+http://mysserver.xyz:8000/live/mahdi1/mahdi/3938.ts
+#EXTINF:-1,BE-2BE
+http://mysserver.xyz:8000/live/mahdi1/mahdi/3936.ts
+#EXTINF:-1,BE-Vier
+http://mysserver.xyz:8000/live/mahdi1/mahdi/3937.ts
+#EXTINF:-1,BE-Een
+http://mysserver.xyz:8000/live/mahdi1/mahdi/3946.ts
+#EXTINF:-1,BE-Canvas_Belgium
+http://mysserver.xyz:8000/live/mahdi1/mahdi/3939.ts
+#EXTINF:-1,BE-VTM
+http://mysserver.xyz:8000/live/mahdi1/mahdi/3949.ts
+#EXTINF:-1,BE-Vitaya
+http://mysserver.xyz:8000/live/mahdi1/mahdi/3948.ts
+#EXTINF:-1,BE-VIJF
+http://mysserver.xyz:8000/live/mahdi1/mahdi/3947.ts
+#EXTINF:-1,BE-Club_RTL
+http://mysserver.xyz:8000/live/mahdi1/mahdi/3940.ts
+#EXTINF:-1,BE-Plug_RTL
+http://mysserver.xyz:8000/live/mahdi1/mahdi/3944.ts
+#EXTINF:-1,BE-RTL_TVI_HD
+http://mysserver.xyz:8000/live/mahdi1/mahdi/3945.ts
+
+#EXTINF:-1,BE: 2BE HD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/4223.ts
+#EXTINF:-1,BE: Acht
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/4224.ts
+#EXTINF:-1,BE: CANVAS
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6660.ts
+#EXTINF:-1,BE: CANVAS  HD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/9208.ts
+#EXTINF:-1,BE: CAZ TV
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/9207.ts
+#EXTINF:-1,BE: CINEMA 1
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/5374.ts
+#EXTINF:-1,BE: CLUB RTL
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/2773.ts
+#EXTINF:-1,BE: Een HD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/4222.ts
+#EXTINF:-1,BE: Ketnet
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/4221.ts
+#EXTINF:-1,BE: La Deux
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/9206.ts
+#EXTINF:-1,BE: La Trois
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/9205.ts
+#EXTINF:-1,BE: La Une
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/9204.ts
+#EXTINF:-1,BE: MNM
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/5379.ts
+#EXTINF:-1,BE: PLUG RTL
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/2772.ts
+#EXTINF:-1,BE: RTC Liege
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6662.ts
+#EXTINF:-1,BE: RTL TVI
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/2771.ts
+#EXTINF:-1,BE: Vier HD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/6659.ts
+#EXTINF:-1,BE: Vijf
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/4249.ts
+#EXTINF:-1,BE: VITAYA
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/5380.ts
+#EXTINF:-1,BE: VOO SPOR 1
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/9203.ts
+#EXTINF:-1,BE: VOO SPORT 1
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/5363.ts
+#EXTINF:-1,BE: VTM
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/5382.ts
+#EXTINF:-1,BE: VTM HD
+http://clientportalpro.com:2500/live/XZfl9HOiU1/Lw8XqLgOio/5377.ts
